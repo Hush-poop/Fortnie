@@ -1,1 +1,2 @@
-# Fortnie
+# synchronousBallMovement
+Ball moving synchronously
